@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ahorcado</string>
+    <string name="direccion">https://www.serverbpw.com/cm/2021-1/hangman.php</string>
+    <string name="salir">Salir</string>
+    <string name="Vaj">Volver  a     Jugar</string>
+    <string name="Categori">Categoría: </string>
+    <string name="gana">Ganaste</string>
+    <string name="jugar">Jugar</string>
+    <string name="Errorcon">Ocurrió un error en la conexión, verifique su conexión y apriete el logo del vaquero. Sino funciona cierre la aplicación e intente más tarde.</string>
+</resources>
